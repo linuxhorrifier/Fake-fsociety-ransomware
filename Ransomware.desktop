@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Sweet Ransomware
+Exec=python3 "/home/daniel/documents/ransomware files/app.py"
+Icon=/home/daniel/documents/ransomware files/icon.png
+Terminal=false
